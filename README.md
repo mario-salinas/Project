@@ -141,13 +141,21 @@ Labeled bars to clearly display numeric values
 
 All visuals are designed to support business presentations and reporting, not just technical exploration.
 
-✅ Key Insights (Example)
+✅ Key Insights
 
-Automatic vehicles tend to show different mileage patterns than manual ones.
+Automatic and manual vehicles exhibit nearly identical average mileage, indicating transmission type has minimal impact on total vehicle usage.
 
-Certain brands consistently command higher prices.
+Approximately 60% of vehicles exceed 100,000 miles, suggesting the dataset is primarily composed of higher-mileage used cars.
 
-Electric vehicles are concentrated among specific brands.
+Toyota is the most represented brand, consistent with its strong global market presence and high production volume.
+
+Mercedes has the lowest average engine size, indicating a greater emphasis on fuel efficiency and compact engine design.
+
+Vehicle prices vary by brand, but the overall price distribution remains relatively close across the dataset.
+
+BMW commands the highest average vehicle price, positioning it as the premium brand leader.
+
+Ford offers the lowest average vehicle price, reinforcing its role as a provider of affordable, mid-range economy vehicles.
 
 A meaningful percentage of vehicles exceed 100,000 miles, which impacts inventory strategy.
 
