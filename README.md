@@ -32,9 +32,6 @@ Condition	Vehicle condition
 Price	Vehicle price
 Model	Vehicle model
 
-⚠️ Note:
-The dataset does not include MPG. Fuel efficiency is inferred using engine size and electric vehicle counts, which is a common and acceptable analytical proxy.
-
 🛠 Tools & Libraries
 
 Python 3
